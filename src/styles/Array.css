@@ -1,0 +1,20 @@
+.rectangle {
+    height: 4px;
+    width: 100px;
+    background-color: rgb(75, 136, 216);
+  }
+
+.active {
+    height: 4px;
+    width: 100px;
+    background-color: rgb(238, 232, 147);
+}
+.next {
+    height: 4px;
+    width: 100px;
+    background-color: rgb(138, 119, 223);
+}
+.array {
+    right: 20%;
+    position: relative;
+}
